@@ -1,5 +1,5 @@
-<h1 align="center">![dev](https://github.com/WassimBenSlim/WassimBenSlim/assets/99125438/6cb1d623-0981-45fd-9e6c-b2a702729105)</h1>
-<h1 align="center">Hi 👋, I'm Wassim Ben Slim</h1>
+
+<h1 align="center"> ![dev](https://github.com/WassimBenSlim/WassimBenSlim/assets/99125438/6cb1d623-0981-45fd-9e6c-b2a702729105) Hi 👋, I'm Wassim Ben Slim</h1>
 
 <h3 align="center">I am a passionate Embedded Systems student from Tunisia.</h3>
 
