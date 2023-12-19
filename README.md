@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wassim Ben Slim</h1>
-<h3 align="center">A passionate Embedded Systems student from Tunisia.</h3>
+<h3 align="center">I am a passionate Embedded Systems student from Tunisia.</h3>
 
 - 📫 How to reach me **wassimbenslim77@gmail.com**
 
