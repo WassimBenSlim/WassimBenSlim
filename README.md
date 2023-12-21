@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Any web development or embedded systems projects**
+- 👯 I’m looking to collaborate on **any Web Development or Embedded Systems projects**
 
-- 💬 Ask me about **Anything basically, if I know something about a certain topic I'll gladely share the information.**
+- 💬 Ask me about **anything basically, if I know something about a certain topic I'll gladely share.**
 
 - 📫 How to reach me **wassimbenslim77@gmail.com**
 
-- ⚡ Fun fact **My dream is becoming either a footballer or an esports professional player.**
+- ⚡ Fun fact **my dream as a kid was becoming either a footballer or an esports professional player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
