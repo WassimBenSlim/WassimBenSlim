@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Wassim Ben Slim</h1>
 <h3 align="center">I am a passionate Embedded Systems student from Tunisia.</h3>
 
-- 🔭 I’m currently working on **Pick To Light/Put To Light (Industry 4.0) Project**
+- 🔭 I’m currently working on **A Personal Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **any Web Development, Flutter or Embedded Systems projects**
 
