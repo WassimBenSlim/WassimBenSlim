@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wassimbenslim77@gmail.com**
 
-- ⚡ Fun fact **my dream as a kid was becoming either a footballer or an esports professional player.**
+- ⚡ Fun fact **my dream as a kid was to become either a footballer or an esports professional player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
